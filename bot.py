@@ -117,4 +117,4 @@ async def unmute_error(ctx, error):
         return
     
 
-client.run("NjAwNTAxNDk0NTc1Mzk4OTEy.XS0rJw.9p1yglWgZ6OALLBvh6_rGOFgUZY")
+client.run(str(os.environ.get('NjAwNTAxNDk0NTc1Mzk4OTEy.XS0rJw.9p1yglWgZ6OALLBvh6_rGOFgUZY')))
